@@ -1,0 +1,7 @@
+{
+  "name": "DS Skill Template",
+  "hubId": "ds-skill-template",
+  "description": "A minimal Deft Systems template for AnythingLLM agent skills.",
+  "version": "0.1.0",
+  "author": "Deft Systems"
+}
